@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">My Resume</string>
+    <string name="name" translatable="false">Daniel Ayesoro</string>
+    <string name="username" translatable="false">danny18</string>
+    <string name="title">Android Developer</string>
+    <string name="about_me">About Me</string>
+
+    <string name="about_me_text">
+I\'m a highly prospective Android Developer on the mobile track[Kotlin]. \nI am an organised and team-oriented developer, who can work in a fast paced environment.
+        I always welcome challenging environments and situations that give me the opportunity to develop new skills. I also write a bit of Vue.js.
+    </string>
+
+    <string name="skills">My Skills</string>
+    <string name="skills_text" translatable="false">Kotlin. \nMaterial Design \nVue.js \nExpress.js</string>
+
+
+    <!--<string name="about_me2">I\'m a highly prospective Android Developer on the mobile\n track[Kotlin].I\'m an organised and team-oriented developer,\n who can work in a fast paced environment.I always\n welcome challenging environments and situations\n that give me the opportunity to develop\n new skills. I also write a bit of Vue.js.</string>-->
+
+    <string name="offer">What I Offer To Your Company</string>
+    <string name="offer_text">
+    I\'ve been designing and building mobile Android applications for the past two years from which I\'ve gained knowledge that I can use to build industry standard applications in your organisation. \nI am an organised and team-oriented developer, which helped in getting tasks done faster in previous organisations I\'ve worked with.
+    I\'ve been able to work well under pressure and juggle more than one task at a time which I feel will come in handy when tasks are needed to be sped up
+</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Développeur Android</string>
+    <string name="about_me">À propos de moi</string>
+
+    <string name="about_me_text">
+Je suis un développeur Android très prometteur sur la piste mobile [Kotlin]. \nJe suis un développeur organisé et axé sur l\'équipe, qui peut travailler dans un environnement au rythme rapide.
+        J\'apprécie toujours les environnements et les situations difficiles qui me donnent l\'opportunité de développer de nouvelles compétences. J\'écris aussi un peu de Vue.js.
+    </string>
+
+    <string name="skills">Mes compétences</string>
+
+    <string name="offer">Ce que j\'offre à votre entreprise</string>
+    <string name="offer_text">
+   Je conçois et développe des applications Android mobiles depuis deux ans, ce qui m\'a permis d\'acquérir des connaissances que je peux utiliser pour créer des applications standard dans votre organisation. \Je suis un développeur organisé et axé sur l\'équipe, ce qui a aidé à accomplir les tâches plus rapidement dans les organisations précédentes avec lesquelles j\'ai travaillé.
+    J\'ai été capable de bien travailler sous pression et de jongler avec plus d\'une tâche à la fois, ce qui me semble utile lorsque les tâches doivent être accélérées.
+</string>
+
+</resources>
